@@ -1,4 +1,4 @@
-import { SignupFormDemo } from "./cmpnnts/SignupFormDemo";
+import SignupFormDemo from "./cmpnnts/SignupFormDemo";
 
 function App() {
   return (
